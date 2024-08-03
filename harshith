@@ -1,0 +1,2 @@
+mkdir harshitha
+echo "this is harshitha file" > p.txt
